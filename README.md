@@ -1,4 +1,4 @@
-3d_obj_mk
+Raspberry 3D Object Maker
 =========
 This is a very old software that I realize long time ago.
 First run was on a Atari 1040. Then I ported the software to a 386 PC.
